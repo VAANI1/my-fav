@@ -1,0 +1,19 @@
+body {
+    background: pink;
+    text-align: center;
+
+}
+
+.app {
+    background: lightpink;
+    color: blue;
+
+}
+
+.movies {
+    text-decoration-color: aquamarine;
+    font-family: cursive;
+    text-decoration: underline;
+    text-align: left;
+
+}
